@@ -1,2 +1,0 @@
-# Portfoliyo
-Mini Project
